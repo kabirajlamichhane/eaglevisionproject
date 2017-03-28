@@ -1,0 +1,19 @@
+body
+	{
+		background-image: url('../../image/1.jpg');
+		background-image: cover;
+	}
+.jumbotron
+	{
+		width: 1200px;
+		height: 50px;
+		padding-top: 10px;
+		background-color: rgba(0,0,0,0.5);
+	}
+button[type="button"]
+	{
+		padding-left: 20px;
+		margin: 5px;
+		width: 250px;
+
+	}
